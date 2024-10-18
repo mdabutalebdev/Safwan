@@ -1,0 +1,20 @@
+ 
+[
+
+    {
+       "id": 1,
+        "catagory": "Branding" 
+    },
+    {
+        "id": 2,
+        "catagory": "Photography"
+    },
+    {
+        "id": 3,
+        "catagory": "fashion"
+    },
+    {
+        "id": 4,
+        "catagory": "Product"
+    }
+]

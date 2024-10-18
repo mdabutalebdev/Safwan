@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "catagory": "Org",
+        "image": "./src/assets/images/work_ex_one.jpg"
+    },
+    {
+        "id": 2,
+        "catagory": "Org",
+        "image": "./src/assets/images/work_ex_one.jpg"
+    },
+    {
+        "id": 3,
+        "catagory": "Photography",
+        "image": "./src/assets/images/work_ex_one.jpg"
+    },
+    {
+        "id": 4,
+        "catagory": "Org",
+        "image": "./src/assets/images/work_ex_one.jpg"
+    },
+    {
+        "id": 5,
+        "catagory": "Branding"
+    },
+    {
+        "id": 6,
+        "catagory": "Photography"
+    },
+    {
+        "id": 7,
+        "catagory": "fashion"
+    },
+    {
+        "id": 8,
+        "catagory": "Product"
+    },
+    {
+        "id": 9,
+        "catagory": "Photography"
+    },
+    {
+        "id": 10,
+        "catagory": "fashion"
+    },
+    {
+        "id": 11,
+        "catagory": "Photography"
+    },
+    {
+        "id": 12,
+        "catagory": "Branding"
+    },
+    {
+        "id": 13,
+        "catagory": "Product"
+    },
+    {
+        "id": 14,
+        "catagory": "Branding"
+    }
+]
